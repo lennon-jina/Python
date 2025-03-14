@@ -1,0 +1,22 @@
+2025-03-14 15:44:42,087 - custom_logger =- INFO - db 연결됨
+2025-03-14 15:44:42,095 - custom_logger =- ERROR - 저장 오류!ORA-00001: 무결성 제약 조건(MEMBER.PK_학생_학번)에 위배됩니다
+2025-03-14 15:47:51,421 - custom_logger - INFO - db 연결됨
+2025-03-14 15:47:51,422 - custom_logger - ERROR - 저장 오류!ORA-00001: 무결성 제약 조건(MEMBER.PK_학생_학번)에 위배됩니다
+2025-03-14 15:49:07,177 - custom_logger - INFO - db 연결됨
+2025-03-14 15:49:07,179 - custom_logger - ERROR - 저장 오류!ORA-00001: 무결성 제약 조건(MEMBER.PK_학생_학번)에 위배됩니다
+2025-03-14 16:01:06,781 - custom_logger - INFO - db 연결됨
+2025-03-14 16:01:06,808 - custom_logger - ERROR - 저장 오류!ORA-00001: 무결성 제약 조건(MEMBER.PK_학생_학번)에 위배됩니다
+2025-03-14 16:23:27,505 - custom_logger - INFO - db 연결됨
+2025-03-14 16:23:27,512 - custom_logger - ERROR - 저장 오류!ORA-00001: 무결성 제약 조건(MEMBER.PK_학생_학번)에 위배됩니다
+2025-03-14 16:31:40,140 - custom_logger - INFO - db 연결됨
+2025-03-14 16:31:40,146 - custom_logger - ERROR - 저장 오류!ORA-00001: 무결성 제약 조건(MEMBER.PK_학생_학번)에 위배됩니다
+2025-03-14 16:47:36,833 - custom_logger - INFO - db 연결됨
+2025-03-14 16:47:36,841 - custom_logger - ERROR - 저장 오류!ORA-00001: 무결성 제약 조건(MEMBER.PK_학생_학번)에 위배됩니다
+2025-03-14 16:48:28,194 - custom_logger - INFO - db 연결됨
+2025-03-14 16:48:28,195 - custom_logger - ERROR - 저장 오류!ORA-00001: 무결성 제약 조건(MEMBER.PK_학생_학번)에 위배됩니다
+2025-03-14 17:09:08,084 - custom_logger - INFO - db 연결됨
+2025-03-14 17:09:08,086 - custom_logger - ERROR - 저장 오류!ORA-00001: 무결성 제약 조건(MEMBER.PK_학생_학번)에 위배됩니다
+2025-03-14 17:11:16,095 - custom_logger - INFO - db 연결됨
+2025-03-14 17:11:16,096 - custom_logger - ERROR - 저장 오류!ORA-00001: 무결성 제약 조건(MEMBER.PK_학생_학번)에 위배됩니다
+2025-03-14 17:12:12,261 - custom_logger - INFO - db 연결됨
+2025-03-14 17:12:12,262 - custom_logger - ERROR - 저장 오류!ORA-00001: 무결성 제약 조건(MEMBER.PK_학생_학번)에 위배됩니다
