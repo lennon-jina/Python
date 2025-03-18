@@ -15,8 +15,8 @@ def fetch_stock_data():
     except Exception as e:
         messagebox.showerror("db error", str(e))
         return []
-    
-def update_collect_yn(code, falg):
+
+def update_collect_yn(code, flag):
     """선택한주식의 수집 여부를 업데이트"""
     db.insert("UPDATE tb_krx SET krx_yn = :1 WHERE krx_code = :2"
               ,[flag, code])
@@ -35,7 +35,7 @@ def on_save():
         messagebox.showwarning("warning", "종목을 선택하세요!")
         return
     stock_code = selected_stock.split(" - ")[0]
-    update_collect_yn()[stock_code, new_flag]
+    update_collect_yn(stock_code, new_flag)
     messagebox.showwarning("success", "데이터 저장됨.")
 def load_date():
     """스레드를 사용하여 데이터를  비동기적으로 로드"""
